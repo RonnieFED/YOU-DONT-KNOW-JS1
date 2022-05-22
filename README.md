@@ -8,11 +8,11 @@ ECMAScript on the other hand is just a specification. ECMA is an organization re
 JavaScript just conforms to these specifications.
 
     APPLICATION OF JS
-    JavaScript is all about behaviour. What should happen when you hover over a button? How should your webpage behave?
+ JavaScript is all about behaviour. What should happen when you hover over a button? How should your webpage behave?
   JavaScript is used to implement behavior. It is used in creation of mobile and web applications.
   
     WHY IS SEPERATION OF CONCERN IMPORTANT?
-    You don't want your code looking rowdy, untidy or hard to read. Separation of concern is basically separating your HTML code from your Javascript code. Hence, your code is tidy, easy to read and attractive.
+ You don't want your code looking rowdy, untidy or hard to read. Separation of concern is basically separating your HTML code from your Javascript code. Hence, your code is tidy, easy to read and attractive.
     
     VARIABLES
    In Javascript, Variables are used to store data temporarily in a computer's memory.
